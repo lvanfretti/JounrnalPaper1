@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.9)  21 AUG 2016 20:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.9)  21 AUG 2016 22:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -408,7 +408,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 520.
 
-Underfull \vbox (badness 2005) has occurred while \output is active []
+Underfull \vbox (badness 3439) has occurred while \output is active []
 
  [2]
 <DataFlow.png, id=20, 469.2732pt x 247.1634pt>
@@ -485,32 +485,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 775--776
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./SVC_ResponseComparison_Labelled_NoVMag.png (PNG copy)> <./Best_sample.pn
-g (PNG copy)> <./Wide_Area_ResponseComparison_SamePlot.png (PNG copy)>]
+[6 <./SVC_ResponseComparison_Labelled_NoVMag.png (PNG copy)> <./Best_sample.png
+ (PNG copy)> <./Wide_Area_ResponseComparison_SamePlot.png (PNG copy)>]
 <Scaling.png, id=43, 572.6193pt x 132.2541pt>
 File: Scaling.png Graphic file (type png)
  <use Scaling.png>
-Package pdftex.def Info: Scaling.png used on input line 834.
+Package pdftex.def Info: Scaling.png used on input line 836.
 (pdftex.def)             Requested size: 252.94499pt x 58.42001pt.
  [7 <./Scaling.png>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 868.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 870.
 
  (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [8]
-Underfull \hbox (badness 1616) in paragraph at lines 1073--1074
+Underfull \hbox (badness 1616) in paragraph at lines 1086--1087
 []\OT1/ptm/m/it/8 Generic Power Sys-tem Sta-bi-lizer \OT1/ptm/m/n/8 Doc-u-men-t
 a-tion dis-tributed with
  []
 
-[9] (./JournalV2.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[9] (./JournalV2.aux) ) 
 Here is how much of TeX's memory you used:
  4100 strings out of 493014
  62165 string characters out of 6133352
@@ -518,23 +511,23 @@ Here is how much of TeX's memory you used:
  7562 multiletter control sequences out of 15000+600000
  47022 words of font info for 83 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 42i,11n,24p,1752b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times
-/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.p
-fb>
-Output written on JournalV2.pdf (9 pages, 4047458 bytes).
+ 42i,11n,24p,1873b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base
+/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex
+10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on JournalV2.pdf (9 pages, 4048180 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
